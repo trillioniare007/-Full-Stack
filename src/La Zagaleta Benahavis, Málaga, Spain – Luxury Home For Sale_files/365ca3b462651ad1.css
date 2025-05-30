@@ -1,0 +1,1 @@
+.listing-item__save--saving{position:absolute;top:0;left:0;width:calc(100% - 0px);background:rgba(var(--color-dynamic-primary-color),.7);padding:15px;z-index:999;text-align:center;color:rgb(var(--color-global-positive));box-sizing:border-box;font-size:1.2rem;font-weight:600}.listing-item__save--saving .o-loading-dot{padding-left:1px}

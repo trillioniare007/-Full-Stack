@@ -1,0 +1,1 @@
+.captcha{display:inline-block}.captcha--invisible .captcha{display:block}.captcha--invisible .error[for$=captcha_validator],.captcha--invisible .modal--error[for$=captcha_validator]{font-size:0;display:none}.captcha__message{margin-bottom:20px;font-size:.834em;font-style:italic}.grecaptcha-badge{display:none!important}
